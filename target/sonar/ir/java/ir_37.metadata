@@ -1,0 +1,4 @@
+ec.edu.epn.Diccionario#buscarMorfemaSanscrito(Ljava/lang/String;)Lec/edu/epn/Morfema;
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+==
+getSanscrito ec.edu.epn.Morfema#getSanscrito()Ljava/lang/String;

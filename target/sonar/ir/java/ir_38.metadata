@@ -1,0 +1,5 @@
+ec.edu.epn.Diccionario#buscarMorfemaEspaniol(Ljava/lang/String;)Lec/edu/epn/Morfema;
+ec.edu.epn.Diccionario#suprimirTildes(Ljava/lang/String;)Ljava/lang/String;
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+==
+getEspañol ec.edu.epn.Morfema#getEspañol()Ljava/lang/String;

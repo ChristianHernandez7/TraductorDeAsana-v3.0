@@ -1,0 +1,7 @@
+organization=christianhernandez7
+projectKey=ec.edu.epn:TraductorDeAsana
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53207
+dashboardUrl=https://sonarcloud.io/dashboard?id=ec.edu.epn%3ATraductorDeAsana
+ceTaskId=AY4Q6mvIrg45cP_QCVlT
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY4Q6mvIrg45cP_QCVlT

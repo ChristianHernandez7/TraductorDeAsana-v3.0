@@ -1,0 +1,4 @@
+ec.edu.epn.Diccionario#buscarPosturaSanscrito(Ljava/lang/String;)Lec/edu/epn/PosturaAsana;
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+==
+getSanscrito ec.edu.epn.PosturaAsana#getSanscrito()Ljava/lang/String;

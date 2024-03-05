@@ -1,0 +1,5 @@
+ec.edu.epn.Main#main([Ljava/lang/String;)V
+ec.edu.epn.visual.PantallaInicial#instance-init#
+ec.edu.epn.visual.PantallaInicial#<init>()V
+==
+crearFrame ec.edu.epn.visual.PantallaInicial#crearFrame(I)V

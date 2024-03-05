@@ -1,0 +1,144 @@
+
+iec.edu.epn.visual.PantallaTraduccionPostura#retornarImagenPostura(Ljava/lang/String;)Ljavax/swing/JLabel;Š
+~/C:/Users/chris/IdeaProjects/CalidadFinal/TraductorDeAsana v3.0/src/main/java/ec/edu/epn/visual/PantallaTraduccionPostura.java¥ ¥('"1*¢
+1
+¦) ¦(1­ª
+
+¦) ¦(3
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*K
+
+__unknown_file (/-
++ec.edu.epn.visual.PantallaTraduccionPostura2
+getClass()€
+~
+
+¦@ ¦(Y
+%1java.lang.String"__concat*
+
+¦@ ¦(L
+
+/posturas/*0
+
+¦M ¦(Y"
+ 
+nombreImagenjava.lang.Stringîë
+
+¦) ¦(Z
+%2java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*3
+
+__unknown_file (
+
+%0java.lang.Class*4
+
+__unknown_file (
+
+%1java.lang.String2getResource(Ljava/lang/String;)B@
+
+¦ ¦((
+%3javax.swing.ImageIcon"javax.swing.ImageIcon±
+®
+
+¦ ¦([
+%4"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*9
+
+__unknown_file (
+
+%3javax.swing.ImageIcon*0
+
+__unknown_file (
+
+%2java.net.URLp
+n
+
+¦ ¦(\
+imagenjavax.swing.ImageIcon"__id*9
+
+__unknown_file (
+
+%3javax.swing.ImageIcon¢Ÿ
+
+§ §(,
+%5java.awt.Image"0javax.swing.ImageIcon#getImage()Ljava/awt/Image;*=
+
+__unknown_file (!
+
+imagenjavax.swing.ImageIcon2
+getImage()C
+A
+
+§I §(\	
+%6int"__id*"
+
+__unknown_file (
+""—”
+
+§ §(]
+%7java.awt.Image"5java.awt.Image#getScaledInstance(III)Ljava/awt/Image;*2
+
+__unknown_file (
+
+%5java.awt.Image*!
+
+__unknown_file (2†*!
+
+__unknown_file (2Ô*'
+
+__unknown_file (
+	
+%6int2getScaledInstance(III)f
+d
+
+§ §(^
+
+scaledIconjava.awt.Image"__id*2
+
+__unknown_file (
+
+%7java.awt.ImageB@
+
+¨& ¨(/
+%8javax.swing.ImageIcon"javax.swing.ImageIcon½
+º
+
+¨" ¨(;
+%9"/javax.swing.ImageIcon#<init>(Ljava/awt/Image;)V*9
+
+__unknown_file (
+
+%8javax.swing.ImageIcon*:
+
+__unknown_file (
+
+
+scaledIconjava.awt.Image=;
+
+¨ ¨(!
+%10javax.swing.JLabel"javax.swing.JLabelº
+·
+
+¨ ¨(<
+%11".javax.swing.JLabel#<init>(Ljavax/swing/Icon;)V*7
+
+__unknown_file (
+
+%10javax.swing.JLabel*9
+
+__unknown_file (
+
+%8javax.swing.ImageIconj
+h
+
+¨ ¨(=
+labeljavax.swing.JLabel"__id*7
+
+__unknown_file (
+
+%10javax.swing.JLabel"+
+
+© ©(
+
+labeljavax.swing.JLabel:.
+
+¥( ¥(; 
+nombreImagenjava.lang.StringB/-
++ec.edu.epn.visual.PantallaTraduccionPosturaH

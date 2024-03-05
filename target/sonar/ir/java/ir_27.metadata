@@ -1,0 +1,6 @@
+ec.edu.epn.visual.PantallaBienvenida#<init>()V
+==
+add java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;
+retornarImagen ec.edu.epn.visual.PantallaBienvenida#retornarImagen(Ljava/lang/String;)Ljavax/swing/JLabel;
+addActionListener javax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V
+colocarIconos ec.edu.epn.visual.PantallaBienvenida#colocarIconos(Ljava/lang/String;Ljavax/swing/JButton;)V

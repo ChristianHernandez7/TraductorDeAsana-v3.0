@@ -1,0 +1,4 @@
+ec.edu.epn.Diccionario#buscarPosturaIngles(Ljava/lang/String;)Lec/edu/epn/PosturaAsana;
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+==
+getIngles ec.edu.epn.PosturaAsana#getIngles()Ljava/lang/String;

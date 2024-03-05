@@ -1,0 +1,8 @@
+ec.edu.epn.Diccionario#<init>()V
+java.util.ArrayList#<init>()V
+com.google.gson.Gson#<init>()V
+com.google.gson.Gson#instance-init#
+java.util.ArrayList#instance-init#
+==
+obtenerMorfema ec.edu.epn.Diccionario#obtenerMorfema()V
+obtenerPosturas ec.edu.epn.Diccionario#obtenerPosturas()V

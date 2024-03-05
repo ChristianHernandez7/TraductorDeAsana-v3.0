@@ -1,0 +1,123 @@
+
+Xec.edu.epn.visual.AgregarPosturas#retornarImagen(Ljava/lang/String;)Ljavax/swing/JLabel;~
+t/C:/Users/chris/IdeaProjects/CalidadFinal/TraductorDeAsana v3.0/src/main/java/ec/edu/epn/visual/AgregarPosturas.javaC C( "1*ð
+1D) D(1¡ž
+D) D(3
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*A
+
+__unknown_file (%#
+!ec.edu.epn.visual.AgregarPosturas2
+getClass()y
+w
+D@ D(X
+%1java.lang.String"__concat*
+D@ D(K
+	/ventanas*.
+DL D(X"
+ 
+nombreImagenjava.lang.Stringìé
+D) D(Y
+%2java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*3
+
+__unknown_file (
+
+%0java.lang.Class*4
+
+__unknown_file (
+
+%1java.lang.String2getResource(Ljava/lang/String;)@>
+D D((
+%3javax.swing.ImageIcon"javax.swing.ImageIcon¯
+¬
+D D(Z
+%4"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*9
+
+__unknown_file (
+
+%3javax.swing.ImageIcon*0
+
+__unknown_file (
+
+%2java.net.URLn
+l
+D D([
+imagenjavax.swing.ImageIcon"__id*9
+
+__unknown_file (
+
+%3javax.swing.ImageIcon 
+E E(,
+%5java.awt.Image"0javax.swing.ImageIcon#getImage()Ljava/awt/Image;*=
+
+__unknown_file (!
+
+imagenjavax.swing.ImageIcon2
+getImage()A
+?
+EI E(\	
+%6int"__id*"
+
+__unknown_file (
+""•’
+E E(]
+%7java.awt.Image"5java.awt.Image#getScaledInstance(III)Ljava/awt/Image;*2
+
+__unknown_file (
+
+%5java.awt.Image*!
+
+__unknown_file (2ú*!
+
+__unknown_file (2È*'
+
+__unknown_file (
+	
+%6int2getScaledInstance(III)d
+b
+E E(^
+
+scaledIconjava.awt.Image"__id*2
+
+__unknown_file (
+
+%7java.awt.Image@>
+F& F(/
+%8javax.swing.ImageIcon"javax.swing.ImageIcon»
+¸
+F" F(;
+%9"/javax.swing.ImageIcon#<init>(Ljava/awt/Image;)V*9
+
+__unknown_file (
+
+%8javax.swing.ImageIcon*:
+
+__unknown_file (
+
+
+scaledIconjava.awt.Image;9
+F F(!
+%10javax.swing.JLabel"javax.swing.JLabel¸
+µ
+F F(<
+%11".javax.swing.JLabel#<init>(Ljavax/swing/Icon;)V*7
+
+__unknown_file (
+
+%10javax.swing.JLabel*9
+
+__unknown_file (
+
+%8javax.swing.ImageIconh
+f
+F F(=
+labeljavax.swing.JLabel"__id*7
+
+__unknown_file (
+
+%10javax.swing.JLabel")
+G G(
+
+labeljavax.swing.JLabel:,
+C! C(4 
+nombreImagenjava.lang.StringB%#
+!ec.edu.epn.visual.AgregarPosturasH
