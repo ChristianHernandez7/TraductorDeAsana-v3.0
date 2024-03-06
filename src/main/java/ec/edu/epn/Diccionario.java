@@ -34,7 +34,7 @@ public class Diccionario {
             String linea;
             while ((linea = br.readLine()) != null) {
                 PosturaAsana posturaAsana = gson.fromJson(linea, PosturaAsana.class);
-                if (!(posturaAsana.getSanscrito() == null) && !(posturaAsana.getEspañol() == null)
+                if ((posturaAsana.getSanscrito() != null) && !(posturaAsana.getEspañol() == null)
                         && !(posturaAsana.getIngles() == null) && !(posturaAsana.getPalabrasBase() == null)) {
                     this.posturas.add(posturaAsana);
                 }
