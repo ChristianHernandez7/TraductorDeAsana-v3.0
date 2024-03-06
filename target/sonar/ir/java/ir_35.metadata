@@ -1,5 +1,0 @@
-ec.edu.epn.Diccionario#buscarPosturaEspaniol(Ljava/lang/String;)Lec/edu/epn/PosturaAsana;
-ec.edu.epn.Diccionario#suprimirTildes(Ljava/lang/String;)Ljava/lang/String;
-java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
-==
-getEspañol ec.edu.epn.PosturaAsana#getEspañol()Ljava/lang/String;

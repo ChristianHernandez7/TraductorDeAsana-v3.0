@@ -1,8 +1,0 @@
-ec.edu.epn.visual.AgregarPosturas#<init>()V
-ec.edu.epn.Diccionario#instance-init#
-ec.edu.epn.Diccionario#<init>()V
-==
-add java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;
-addActionListener javax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V
-retornarImagen ec.edu.epn.visual.AgregarPosturas#retornarImagen(Ljava/lang/String;)Ljavax/swing/JLabel;
-colocarIconos ec.edu.epn.visual.AgregarPosturas#colocarIconos(Ljava/lang/String;Ljavax/swing/JButton;)V

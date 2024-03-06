@@ -1,6 +1,0 @@
-ec.edu.epn.PosturaAsana#presentarTraducionDeMorfemas(Ljava/lang/String;)Ljava/lang/String;
-ec.edu.epn.Diccionario#instance-init#
-java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
-ec.edu.epn.Diccionario#<init>()V
-==
-buscarMorfemaSanscrito ec.edu.epn.Diccionario#buscarMorfemaSanscrito(Ljava/lang/String;)Lec/edu/epn/Morfema;

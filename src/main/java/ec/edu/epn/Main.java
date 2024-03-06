@@ -2,6 +2,7 @@ package ec.edu.epn;
 
 import ec.edu.epn.visual.PantallaInicial;
 
+import javax.swing.*;
 
 public class Main {
     public static void main(String[] args) {

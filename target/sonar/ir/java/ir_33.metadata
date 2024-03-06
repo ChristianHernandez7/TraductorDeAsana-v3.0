@@ -1,9 +1,0 @@
-ec.edu.epn.Diccionario#agregarPostura(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z
-ec.edu.epn.PosturaAsana#instance-init#
-ec.edu.epn.PosturaAsana#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
-==
-add java.util.ArrayList#add(Ljava/lang/Object;)Z
-getEspañol ec.edu.epn.PosturaAsana#getEspañol()Ljava/lang/String;
-escribirPostura ec.edu.epn.Diccionario#escribirPostura(Lec/edu/epn/PosturaAsana;)Z
-println java.io.PrintStream#println(Ljava/lang/String;)V
-buscarPosturaSanscrito ec.edu.epn.Diccionario#buscarPosturaSanscrito(Ljava/lang/String;)Lec/edu/epn/PosturaAsana;

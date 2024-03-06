@@ -1,92 +1,0 @@
-
-Bec.edu.epn.Diccionario#escribirPostura(Lec/edu/epn/PosturaAsana;)Zs
-i/C:/Users/chris/IdeaProjects/CalidadFinal/TraductorDeAsana v3.0/src/main/java/ec/edu/epn/Diccionario.java@ @(""9*!
-5D D("
-D D(
-""*¶
-6B B(/b
-`
-B B(/
-jsonjava.lang.String"__id*4
-
-__unknown_file (
-
-%5java.lang.Stringj
-h
-C C( 
-%6java.lang.String"__concat*&
-C C(
-
-jsonjava.lang.String*
-C C( 
-\nÑÎ
-C C(!
-
-%7void")java.io.Writer#write(Ljava/lang/String;)V*:
-
-__unknown_file (
-
-bwjava.io.BufferedWriter*4
-
-__unknown_file (
-
-%6java.lang.String2write(Ljava/lang/String;)*
-5*õ
-7A A(Yl
-j
-A A(Y
-bwjava.io.BufferedWriter"__id*:
-
-__unknown_file (
-
-%2java.io.BufferedWriterp
-n
-B B(
-%4com.google.gson.Gson"__id*@
-
-__unknown_file ($*"
-ec.edu.epn.Diccionario"
-gson€ý
-B B(.
-%5java.lang.String"Acom.google.gson.Gson#toJson(Ljava/lang/Object;)Ljava/lang/String;*8
-
-__unknown_file (
-
-%4com.google.gson.Gson*@
-
-__unknown_file ($
-"
-posturaec.edu.epn.PosturaAsana2toJson(Ljava/lang/Object;)*
-6*’
-8A! A(YB@
-A% A(3
-%2java.io.BufferedWriter"java.io.BufferedWriter¹
-¶
-A! A(Y
-%3"0java.io.BufferedWriter#<init>(Ljava/io/Writer;)V*:
-
-__unknown_file (
-
-%2java.io.BufferedWriter*6
-
-__unknown_file (
-
-%0java.io.FileWriter*
-7*€
-9AC A(W:8
-A8 A(B
-%0java.io.FileWriter"java.io.FileWriter¯
-¬
-A4 A(X
-%1".java.io.FileWriter#<init>(Ljava/lang/String;)V*6
-
-__unknown_file (
-
-%0java.io.FileWriter*2
-
-__unknown_file (
-/posturasAsana.txt*
-8:.
-@# @(7"
-posturaec.edu.epn.PosturaAsanaB
-ec.edu.epn.DiccionarioHX

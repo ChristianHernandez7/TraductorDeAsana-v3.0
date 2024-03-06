@@ -1,4 +1,0 @@
-ec.edu.epn.Diccionario#buscarMorfemaIngles(Ljava/lang/String;)Lec/edu/epn/Morfema;
-java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
-==
-getIngles ec.edu.epn.Morfema#getIngles()Ljava/lang/String;

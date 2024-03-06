@@ -1,97 +1,0 @@
-
-Tec.edu.epn.Diccionario#buscarMorfemaEspaniol(Ljava/lang/String;)Lec/edu/epn/Morfema;u
-i/C:/Users/chris/IdeaProjects/CalidadFinal/TraductorDeAsana v3.0/src/main/java/ec/edu/epn/Diccionario.javaÇ Ç(("5*ä
-2
-É É(W
-U
-
-É É(
-morfemaec.edu.epn.Morfema"__id*"
-
-__unknown_file (
-""ó
-î
-
-É É(
-morfemaec.edu.epn.Morfema"
-__arrayGet*7
-
-__unknown_file (
-
-%0java.util.ArrayList*"
-
-__unknown_file (
-""*
-4
-1*>
-3
-Ö Ö("-
-
-Ö Ö(
-
-morfemaec.edu.epn.Morfema*É
-4
-Ñ Ñ(ß§
-
-Ñ Ñ(3
-%1java.lang.String"2ec.edu.epn.Morfema#getEspa√±ol()Ljava/lang/String;*;
-
-__unknown_file (
-
-morfemaec.edu.epn.Morfema2getEspa√±ol()‚
-ﬂ
-
-Ñ Ñ(4
-%2java.lang.String"Kec.edu.epn.Diccionario#suprimirTildes(Ljava/lang/String;)Ljava/lang/String;*6
-
-__unknown_file ("
-ec.edu.epn.Diccionario*4
-
-__unknown_file (
-
-%1java.lang.StringÔ
-Ï
-
-ÑF Ñ(e
-%3java.lang.String"Kec.edu.epn.Diccionario#suprimirTildes(Ljava/lang/String;)Ljava/lang/String;*6
-
-__unknown_file ("
-ec.edu.epn.Diccionario*A
-
-__unknown_file (%
-#
-morfemaEspanioljava.lang.StringËÂ
-
-Ñ Ñ(f
-%4boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*4
-
-__unknown_file (
-
-%2java.lang.String*4
-
-__unknown_file (
-
-%3java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
-2
-3*ã
-5
-É É('u
-s
-
-É É('
-%0java.util.ArrayList"__id*D
-
-__unknown_file ((*&
-ec.edu.epn.Diccionario"
-
-morfemas*
-2*%
-1
-à à("
-
-à à(
-"":1
-
-Ç) Ç(?#
-morfemaEspanioljava.lang.StringB
-ec.edu.epn.DiccionarioH

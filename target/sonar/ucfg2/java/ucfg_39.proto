@@ -1,123 +1,0 @@
-
-[ec.edu.epn.visual.PantallaBienvenida#retornarImagen(Ljava/lang/String;)Ljavax/swing/JLabel;
-w/C:/Users/chris/IdeaProjects/CalidadFinal/TraductorDeAsana v3.0/src/main/java/ec/edu/epn/visual/PantallaBienvenida.javaR R( "1*ó
-1S) S(1¤¡
-S) S(3
-%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*D
-
-__unknown_file ((&
-$ec.edu.epn.visual.PantallaBienvenida2
-getClass()y
-w
-S@ S(X
-%1java.lang.String"__concat*
-S@ S(K
-	/ventanas*.
-SL S(X"
- 
-nombreImagenjava.lang.Stringìé
-S) S(Y
-%2java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*3
-
-__unknown_file (
-
-%0java.lang.Class*4
-
-__unknown_file (
-
-%1java.lang.String2getResource(Ljava/lang/String;)@>
-S S((
-%3javax.swing.ImageIcon"javax.swing.ImageIcon¯
-¬
-S S(Z
-%4"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*9
-
-__unknown_file (
-
-%3javax.swing.ImageIcon*0
-
-__unknown_file (
-
-%2java.net.URLn
-l
-S S([
-imagenjavax.swing.ImageIcon"__id*9
-
-__unknown_file (
-
-%3javax.swing.ImageIcon 
-T T(,
-%5java.awt.Image"0javax.swing.ImageIcon#getImage()Ljava/awt/Image;*=
-
-__unknown_file (!
-
-imagenjavax.swing.ImageIcon2
-getImage()A
-?
-TI T(\	
-%6int"__id*"
-
-__unknown_file (
-""•’
-T T(]
-%7java.awt.Image"5java.awt.Image#getScaledInstance(III)Ljava/awt/Image;*2
-
-__unknown_file (
-
-%5java.awt.Image*!
-
-__unknown_file (2ú*!
-
-__unknown_file (2„*'
-
-__unknown_file (
-	
-%6int2getScaledInstance(III)d
-b
-T T(^
-
-scaledIconjava.awt.Image"__id*2
-
-__unknown_file (
-
-%7java.awt.Image@>
-U& U(/
-%8javax.swing.ImageIcon"javax.swing.ImageIcon»
-¸
-U" U(;
-%9"/javax.swing.ImageIcon#<init>(Ljava/awt/Image;)V*9
-
-__unknown_file (
-
-%8javax.swing.ImageIcon*:
-
-__unknown_file (
-
-
-scaledIconjava.awt.Image;9
-U U(!
-%10javax.swing.JLabel"javax.swing.JLabel¸
-µ
-U U(<
-%11".javax.swing.JLabel#<init>(Ljavax/swing/Icon;)V*7
-
-__unknown_file (
-
-%10javax.swing.JLabel*9
-
-__unknown_file (
-
-%8javax.swing.ImageIconh
-f
-U U(=
-labeljavax.swing.JLabel"__id*7
-
-__unknown_file (
-
-%10javax.swing.JLabel")
-V V(
-
-labeljavax.swing.JLabel:,
-R! R(4 
-nombreImagenjava.lang.StringB(&
-$ec.edu.epn.visual.PantallaBienvenidaH
